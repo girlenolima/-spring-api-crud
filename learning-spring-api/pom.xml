@@ -133,7 +133,7 @@
 				<configuration>
 					<url>jdbc:mysql://localhost:3306/rest_spring_boot_limas?useTimezone=true&amp;serverTimezone=UTC&amp;useSSL=false</url>
 					<user>root</user>
-					<password>Imperad0r</password>
+					<password>SENHA</password>
 				</configuration>
 				<dependencies>
 					<dependency>
