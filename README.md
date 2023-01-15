@@ -44,19 +44,19 @@ JSON
 ### Best practices
 ---
 
-- Pagination.
-- Filters.
-- Logical resources, separate concepts.
-- Fault tolerance.
-- Keep information cash.
-- Connectivity.
-- Timeouts and notifications, don't let the service hang on the server.
-- Documentation.
-- Security - SSL.
-- Versioning.
-- Self service.
-- Tests.
-- Allow exports in the most used formats.
-- I18N / Globalization.
-- Notifications.
-- Limit fields.
+| Practice | Summary | example |
+|--- |--- |--- |
+| Pagination | column 2 | column 3 |
+| Filters | row 2 column 2 | row 2 column 3 |
+| Keep information cash | row 2 column 2 | row 2 column 3 |
+| Fault tolerance | row 2 column 2 | row 2 column 3 |
+| Connectivity | row 2 column 2 | row 2 column 3 |
+| Timeouts and notifications | row 2 column 2 | row 2 column 3 |
+| Documentation | row 2 column 2 | row 2 column 3 |
+| Security | row 2 column 2 | row 2 column 3 |
+| Self service | row 2 column 2 | row 2 column 3 |
+| Tests | row 2 column 2 | row 2 column 3 |
+| Allow exports in the most used formats | row 2 column 2 | row 2 column 3 |
+| Notifications | row 2 column 2 | row 2 column 3 |
+| I18N | row 2 column 2 | row 2 column 3 |
+| Limit fields | row 2 column 2 | row 2 column 3 |
