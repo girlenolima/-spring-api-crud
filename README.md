@@ -13,6 +13,8 @@ JAVA
 MAVEN
 > <div align="justify">Maven is a build automation tool primarily used in Java projects. It is similar to the Ant tool, but it is based on different concepts and works in a different way. It is also used to build and manage projects written in C#, Ruby, Scala and other languages. The Maven project is hosted by the Apache Software Foundation, which was part of the former Jakarta Project. </div>
 
+GIT
+> <div align="justify">Git is one of the most widely used version control systems in the software development world. It is an open source project developed in 2005 by Linus Torvalds, the creator of the Linux kernel.</div>
 
 > <div align="justify"> </div>
 
