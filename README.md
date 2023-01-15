@@ -43,3 +43,20 @@ JSON
 
 ### Best practices
 ---
+
+- Pagination.
+- Filters.
+- Logical resources, separate concepts.
+- Fault tolerance.
+- Keep information cash.
+- Connectivity.
+- Timeouts and notifications, don't let the service hang on the server.
+- Documentation.
+- Security - SSL.
+- Versioning.
+- Self service.
+- Tests.
+- Allow exports in the most used formats.
+- I18N / Globalization.
+- Notifications.
+- Limit fields.
