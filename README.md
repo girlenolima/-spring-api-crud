@@ -10,10 +10,11 @@
 JAVA
 > <div align="justify">Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle) in the early 1990s. It is a platform-independent language that allows the creation of cross-platform applications that can run on various operating systems, including Windows, MacOS, and Linux. </div>
 
+MAVEN
+> <div align="justify">Maven is a build automation tool primarily used in Java projects. It is similar to the Ant tool, but it is based on different concepts and works in a different way. It is also used to build and manage projects written in C#, Ruby, Scala and other languages. The Maven project is hosted by the Apache Software Foundation, which was part of the former Jakarta Project. </div>
+
 
 > <div align="justify"> </div>
-
-
 
 ### Patterns and architectures.
 ---
