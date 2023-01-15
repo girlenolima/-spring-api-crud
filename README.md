@@ -1,13 +1,22 @@
-# Spring api CRUD.
-
-#### This is a study API, designed to provide a foundation for learning and experimenting. It is still under development and therefore may contain bugs or incomplete functionality. Please use it with caution and feel free to make suggestions or report problems.
+## Spring api CRUD.
 
 
-# Technologies.
+> <div align="justify"> This is a study API, designed to provide a foundation for learning and experimenting. It is still under development and therefore may contain bugs or incomplete functionality. Please use it with caution and feel free to make suggestions or report problems.</div>
 
 
-# Patterns and architectures.
 
+### Technologies.
+---
+JAVA
+> <div align="justify">Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle) in the early 1990s. It is a platform-independent language that allows the creation of cross-platform applications that can run on various operating systems, including Windows, MacOS, and Linux. </div>
+
+
+> <div align="justify"> </div>
+
+
+
+### Patterns and architectures.
+---
 REST
 > <div align="justify">(Representational State Transfer) is an architectural style for building web services. It is based on a client-server model, where the client makes requests to the server, which then responds with the requested information. RESTful web services are built using the principles of REST, and use HTTP methods like GET, POST, PUT, and DELETE to retrieve or manipulate data. RESTful web services are lightweight, easy to implement, and can be easily consumed by a wide range of clients, including web browsers, mobile apps, and other servers.</div>
 
@@ -17,4 +26,5 @@ RESTfull
 VO design pattern
 > <div align="justify">(The Value Object (VO) design pattern is a type of software design pattern that is used to represent a value object. A value object is an object that represents an entity with immutable data, such as a date or a currency. These objects are used to represent application data and are typically passed as parameters between layers or between objects. In general, value objects do not have behavior, they are just data containers. They are comparable to each other and comparable to other value objects based on their value.</div>
 
-# Best practices
+### Best practices
+---
