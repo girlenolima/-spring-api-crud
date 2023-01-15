@@ -38,5 +38,8 @@ RESTfull
 VO design pattern
 > <div align="justify">(The Value Object (VO) design pattern is a type of software design pattern that is used to represent a value object. A value object is an object that represents an entity with immutable data, such as a date or a currency. These objects are used to represent application data and are typically passed as parameters between layers or between objects. In general, value objects do not have behavior, they are just data containers. They are comparable to each other and comparable to other value objects based on their value.</div>
 
+JSON
+> <div align="justify">JSON is the acronym for Javascript Object Notation — or Object Notation in Javascript, in free translation. It's a file format, basically. Systems in the most varied languages use these files for manipulation and transfer of almost all types of data. Most of them are currently capable of converting data contained in JSON to structured objects in the language itself.In general, the codes of a JSON file are intended for better readability by people when storing, programming the transfer and modification of objects — and other sets of data. </div>
+
 ### Best practices
 ---
