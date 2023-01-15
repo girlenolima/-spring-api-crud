@@ -16,6 +16,15 @@ MAVEN
 GIT
 > <div align="justify">Git is one of the most widely used version control systems in the software development world. It is an open source project developed in 2005 by Linus Torvalds, the creator of the Linux kernel.</div>
 
+MYSQL
+> <div align="justify"> MySQL is a database management system, which uses the SQL language as an interface. It is currently one of the most popular database management systems from Oracle Corporation</div>
+
+DOCKER
+> <div align="justify"> Docker is an open source platform that facilitates the creation and administration of isolated environments. It makes it possible to package an application or environment within a container, making it portable to any other host that has Docker installed. So you can build, deploy, copy and migrate from one environment to another with greater flexibility. The idea of Docker is to upload only one machine, instead of several. And, on that single machine, you can run multiple applications without any conflicts between them.</div>
+
+POSTMAN
+> <div align="justify"> Postman is a tool that supports the documentation of requests made by the API. It has an environment for documentation, execution of API tests and requests in general.By using it, you will be able to work with APIs more efficiently, building requests quickly, and you will also be able to save them for later use, in addition to being able to analyze the responses sent by the API.</div>
+
 > <div align="justify"> </div>
 
 ### Patterns and architectures.
