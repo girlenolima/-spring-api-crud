@@ -41,6 +41,18 @@ VO design pattern
 JSON
 > <div align="justify">JSON is the acronym for Javascript Object Notation — or Object Notation in Javascript, in free translation. It's a file format, basically. Systems in the most varied languages use these files for manipulation and transfer of almost all types of data. Most of them are currently capable of converting data contained in JSON to structured objects in the language itself.In general, the codes of a JSON file are intended for better readability by people when storing, programming the transfer and modification of objects — and other sets of data. </div>
 
+### Avoiding Bugs
+
+---
+CORS 
+> Cross-Origin Resource Sharing is a W3C specification that defines how browsers should handle requests for resources from different origins. It allows a server to configure which resources can be accessed by a different origin site, and how those resources can be accessed. This is important for security, as it prevents malicious websites from accessing sensitive data from other websites without permission.
+
+Browsers make use of the same origin policy, a resource from a site can only be used by another if they are in the same domain; same protocol, same port and same address.
+
+Here cors has been configured in two ways globally and per controler. In the controller it can be marked as @CrossOrigin or activated by verb ; just mark each operation with @CrossOrigin(origins = "http:localhost:8080") this method was used in Person's controller.
+
+Globally, the cors tag is created in application.yml. In webconfig, the variable and the corsmap are defined.
+
 ### Best practices
 ---
 
