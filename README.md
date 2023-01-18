@@ -45,7 +45,7 @@ JSON
 
 ---
 CORS 
-> Cross-Origin Resource Sharing is a W3C specification that defines how browsers should handle requests for resources from different origins. It allows a server to configure which resources can be accessed by a different origin site, and how those resources can be accessed. This is important for security, as it prevents malicious websites from accessing sensitive data from other websites without permission.
+> <div align="justify">Cross-Origin Resource Sharing is a W3C specification that defines how browsers should handle requests for resources from different origins. It allows a server to configure which resources can be accessed by a different origin site, and how those resources can be accessed. This is important for security, as it prevents malicious websites from accessing sensitive data from other websites without permission.</div>
 
 Browsers make use of the same origin policy, a resource from a site can only be used by another if they are in the same domain; same protocol, same port and same address.
 
