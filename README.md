@@ -27,6 +27,14 @@ POSTMAN
 
 > <div align="justify"> </div>
 
+### Safety
+---
+JWT
+> <div align="justify"> JSON Web Token (JWT) is an open standard (RFC 7519) for transmitting security information, such as authentication and authorization, through a encoded string. These information can be verified and trusted because they are digitally signed. JWT consists of three parts: header, payload, and signature. The header contains information about the encoding and signature of the JWT, the payload contains security information, such as the user and permissions, and the signature is used to ensure the integrity of the information. JWT is widely used in web and mobile applications for user authentication and authorization. </div>
+
+Spring Security
+> <div align="justify"> Framework that provides authentication and authorization for Java-based applications. It is built on top of the Spring Framework and integrates with it seamlessly. Spring Security provides a wide range of features, including authentication and authorization, access control, password encoders, and security-related HTTP headers. It also supports various authentication methods such as basic authentication, form-based authentication, and token-based authentication. Additionally, Spring Security also supports integration with external authentication providers such as LDAP and OAuth. It is highly configurable and customizable, and can be easily integrated with other Spring modules such as Spring MVC and Spring Data.</div>
+
 ### Patterns and architectures.
 ---
 REST
